@@ -1,0 +1,10 @@
+div{
+  color: red;
+  background-color:rgb(52, 131, 145);
+  border: 10px solid lawngreen;
+  margin: 10px; 
+  border-radius: 10px;
+  width: 400px;
+  padding: 10px;
+  text-align: justify;
+}
